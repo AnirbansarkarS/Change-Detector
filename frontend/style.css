@@ -1,0 +1,22 @@
+/* Reset styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+  }
+  
+  /* Heading */
+  h2 {
+    margin: 10px;
+    color: #333;
+  }
+  
+  /* Map container */
+  #map {
+    height: 90vh;   /* Takes almost full screen */
+    width: 100%;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+  
